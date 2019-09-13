@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'testfont';
+    src: url('https://fonts.googleapis.com/css?family=Roboto+Slab') format('ttf');
+    font-weight: 400;
+}
+
+.hello {
+    color: red;
+    background: url(5a5a21f30856713255437f4e19677300.png);
+    font-family: 'testfont';
+    font-size: 50px;
+}
+
+/*# sourceMappingURL=app.css.map*/
